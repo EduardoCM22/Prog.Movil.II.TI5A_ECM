@@ -12,6 +12,7 @@ Pre-requisites
 --------------
 
 You need to know:
+Prueba repositorio
 - How to create Composable functions.
 - How to use architecture components including ViewModel.
 - How to use coroutines for long-running tasks.
